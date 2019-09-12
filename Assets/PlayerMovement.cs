@@ -21,6 +21,20 @@ public class PlayerMovement : MonoBehaviour
         Movement();
     }
 
+    private void FixedUpdate()
+    {
+        if (rb.transform.position.y > 0)
+        {
+            rb.useGravity = true;
+            rb.drag = 1;
+        }
+        else
+        {
+            rb.useGravity=false;
+            rb.drag = 10;
+        }
+    }
+
     private void Movement()
     {
         if (Input.GetKey("w"))
