@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\Imported\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_Demo.cs" />
     <Compile Include="Assets\Imported\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_UIs.cs" />
     <Compile Include="Assets\Imported\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
@@ -77,6 +78,20 @@
     <None Include="Assets\Imported\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
     <None Include="Assets\Imported\Fantasy Skybox FREE\Fog and Ambient references.txt" />
     <None Include="Assets\Imported\GE Common Assets\Readme.txt" />
+=======
+    <Compile Include="Assets\CameraControl.cs" />
+    <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_Demo.cs" />
+    <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_UIs.cs" />
+    <Compile Include="Assets\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
+    <Compile Include="Assets\GE Common Assets\Scripts\GE_UIResponder.cs" />
+    <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
+    <None Include="Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt" />
+    <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
+    <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
+    <None Include="Assets\Fantasy Skybox FREE\Fog and Ambient references.txt" />
+    <None Include="Assets\GE Common Assets\Readme.txt" />
+>>>>>>> ac1c3a94b542b153a10ee8d69f6b747cf30c11aa
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/CODING/GameDev/projects/BoatRace/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -160,6 +175,15 @@
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+<<<<<<< HEAD
+=======
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
+>>>>>>> ac1c3a94b542b153a10ee8d69f6b747cf30c11aa
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>

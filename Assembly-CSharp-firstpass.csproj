@@ -236,6 +236,15 @@
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+<<<<<<< HEAD
+=======
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
+>>>>>>> ac1c3a94b542b153a10ee8d69f6b747cf30c11aa
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
